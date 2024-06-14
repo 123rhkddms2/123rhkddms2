@@ -1,4 +1,4 @@
-![kwangeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=123rhkddms2&hide=contribs,prs&show_icons=true&theme=테마)
+![kwangeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangeun&hide=contribs,prs&show_icons=true&theme=테마)
 
 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
