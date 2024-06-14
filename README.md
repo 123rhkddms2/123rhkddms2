@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123rhkddms2)](https://github.com/anuraghazra/github-readme-stats)
-![123rhkddms2's GitHub stats](https://github-readme-stats.vercel.app/api?username=광은&hide=contribs,prs&show_icons=true&theme=테마)
+![광은's GitHub stats](https://github-readme-stats.vercel.app/api?username=123rhkddms2&hide=contribs,prs&show_icons=true&theme=테마)
 
 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
