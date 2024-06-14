@@ -1,3 +1,5 @@
+![123rhkddms2's GitHub stats](https://github-readme-stats.vercel.app/api?username=123rhkddms2&show_icons=true&theme=radical)
+
 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
