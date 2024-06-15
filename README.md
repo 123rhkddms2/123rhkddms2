@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  ### My Skills
+  <b>### My Skills</b>
   
 </p>
 
