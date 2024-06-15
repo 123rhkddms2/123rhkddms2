@@ -7,6 +7,8 @@
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![OracleDB](https://img.shields.io/badge/OracleDB-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
