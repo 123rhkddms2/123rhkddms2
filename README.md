@@ -16,12 +16,12 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  
+  <br>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OracleDB" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=jpa&logoColor=white" alt="JPA" />
   <img src="https://img.shields.io/badge/MYBATIS-BE8C41?style=flat-square&logo=mybatis&logoColor=white" alt="MYBATIS" />
-  
+  <br>
   <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=querydsl&logoColor=white" alt="QueryDSL" />
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
