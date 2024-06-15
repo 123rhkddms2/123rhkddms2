@@ -26,7 +26,7 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
-<div style="display: flex; align-items: flex-start;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
