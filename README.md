@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
----
-# 안녕하십니까 🔥
+# 김광은's GitHub Profile
 
 - ✏️ 현재 기존 강의 수료 후 백엔드 국비 과정 수강 중입니다.
 - 💻 기존을 쌓고 사고 능력 증진을 위해 알고리즘을 꾸준히 풀어가고 있습니다.
