@@ -47,7 +47,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=123rhkddms2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=58A6FF&count_private=true" width=56% />
 </a>
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=123rhkddms2&theme=react-dark&bg_color=ffffff&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 
 Thank you for visiting my GitHub profile!
