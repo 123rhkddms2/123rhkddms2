@@ -54,7 +54,10 @@
     <tr>
       <td>24.05.20~24.06.21</td>
       <td>ZeroPie 그룹웨어 프로젝트(2차)</td>
-      <td><a href="https://github.com/123rhkddms2/community-site-back-team1">이동</a></td>
+      <td>
+        <a href="https://github.com/123rhkddms2/community-site-front-team1">프론트엔드 이동</a><br>
+        <a href="https://github.com/123rhkddms2/community-site-back-team1">백엔드 이동</a>
+      </td>
     </tr>
     <tr>
       <td>24.04.15~24.05.17</td>
