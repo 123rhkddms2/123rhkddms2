@@ -53,23 +53,23 @@
   <tbody>
     <tr>
       <td>24.05.20~24.06.21</td>
-      <td>ZeroPie 그룹웨어 프로젝트</td>
-      <td><a href="#">이동</a></td>
+      <td>ZeroPie 그룹웨어 프로젝트(2차)</td>
+      <td><a href="https://github.com/123rhkddms2/community-site-back-team1">이동</a></td>
     </tr>
     <tr>
       <td>24.04.15~24.05.17</td>
-      <td>LotteOn 쇼핑몰 프로젝트</td>
-      <td><a href="#">이동</a></td>
+      <td>LotteOn 쇼핑몰 프로젝트(1차)</td>
+      <td><a href="https://github.com/123rhkddms2/lotte-1">이동</a></td>
     </tr>
     <tr>
       <td>24.04.01~24.04.12</td>
-      <td>farmstory 프로젝트</td>
-      <td><a href="#">이동</a></td>
+      <td>farmstory 프로젝트(연습)</td>
+      <td><a href="https://github.com/123rhkddms2/Farmstory">이동</a></td>
     </tr>
     <tr>
       <td>24.03.19~24.03.31</td>
-      <td>Sboard 게시판 프로젝트</td>
-      <td><a href="#">이동</a></td>
+      <td>(Spring)Sboard 게시판 프로젝트(연습)</td>
+      <td><a href="https://github.com/123rhkddms2/Spring">이동</a></td>
     </tr>
   </tbody>
 </table>
