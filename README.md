@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<p align="center">김광은's GitHub Profile</p>
-
----
+<h1 align="center">김광은's GitHub Profile</h1>
 
 <p align="center">
   ✏️ 백엔드 개발자 국비 과정을 수강하였습니다.<br>
