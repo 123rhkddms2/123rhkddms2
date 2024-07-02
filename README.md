@@ -2,6 +2,8 @@
 
 <h1 align="center">김광은's GitHub Profile</h1>
 
+---
+
 <p align="center">
   ✏️ 백엔드 개발자 국비 과정을 수강하였습니다.<br>
   💻 개발경험을 늘리고 사고 능력 증진을 위해 알고리즘을 꾸준히 풀어가고 있습니다.<br>
