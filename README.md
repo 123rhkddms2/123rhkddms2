@@ -26,8 +26,7 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" /></p></br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=jpa&logoColor=white" alt="JPA" />
   <img src="https://img.shields.io/badge/MyBatis-BE8C41?style=flat-square&logo=mybatis&logoColor=white" alt="MyBatis" />
