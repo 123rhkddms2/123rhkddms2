@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">My Skills</h3>
+<h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -37,6 +37,42 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 </p>
+
+---
+
+<h3 align="center">프로젝트</h3>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>작업 기한</th>
+      <th>프로젝트 명</th>
+      <th>이동</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>24.05.20~24.06.21</td>
+      <td>ZeroPie 그룹웨어 프로젝트</td>
+      <td><a href="#">이동</a></td>
+    </tr>
+    <tr>
+      <td>24.04.15~24.05.17</td>
+      <td>LotteOn 쇼핑몰 프로젝트</td>
+      <td><a href="#">이동</a></td>
+    </tr>
+    <tr>
+      <td>24.04.01~24.04.12</td>
+      <td>farmstory 프로젝트</td>
+      <td><a href="#">이동</a></td>
+    </tr>
+    <tr>
+      <td>24.03.19~24.03.31</td>
+      <td>Sboard 게시판 프로젝트</td>
+      <td><a href="#">이동</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
