@@ -13,7 +13,7 @@
 <h3 align="center">Contact</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=mail&logoColor=white" alt="Email" /> Email: <a href="mailto:123rhkddms@naver.com">123rhkddms@naver.com</a>
+  📧 Email: <a href="mailto:123rhkddms@naver.com">123rhkddms@naver.com</a>
 </p>
 
 ---
