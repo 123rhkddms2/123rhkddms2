@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">김광은's GitHub Profile</h1>
+<p align="center">김광은's GitHub Profile</p>
 
 ---
 
